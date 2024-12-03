@@ -133,6 +133,26 @@ body {
     background: #666;
 }
 
+h2 {
+    margin-top: 40px;
+    font-family: "Times New Roman", serif;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+}
+
+.wrapped-image1 {
+    float: right; 
+    margin-left: 15px; 
+    margin-top: 10px; 
+    margin-bottom: 5px; 
+    width: 500px;
+    height: auto; 
+    border-radius: 2px; 
+}
+
+
 /* Footer Styles */
 .footer {
     text-align: center;
