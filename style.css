@@ -58,6 +58,16 @@ body {
     border-radius: 10px;
 }
 
+.name{
+    margin-left: 6px;
+    margin-right: 6px;
+    font-weight: bold;
+}
+
+.namedate{
+    display: flex;
+}
+
 /* Main Content Layout */
 .first-row {
     display: flex;
