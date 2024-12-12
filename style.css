@@ -58,6 +58,14 @@ body {
     border-radius: 10px;
 }
 
+.feature-image figcaption {
+    text-align: center;
+    font-size: 0.9rem;
+    color: #555;
+    margin-top: 5px;
+    font-style: italic;
+}
+
 .name{
     margin-left: 6px;
     margin-right: 6px;
@@ -153,14 +161,101 @@ h2 {
 }
 
 .wrapped-image1 {
-    float: right; 
-    margin-left: 15px; 
-    margin-top: 10px; 
-    margin-bottom: 5px; 
-    width: 500px;
-    height: auto; 
-    border-radius: 2px; 
+    float: left;
+    margin-right: 15px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    width: 600px;
+    border-radius: 2px;
+    text-align: center;
 }
+
+.wrapped-image1 img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.wrapped-image1 figcaption {
+    font-size: 0.9rem;
+    color: #555;
+    margin-top: 5px;
+    font-style: italic;
+}
+
+.wrapped-image2 {
+    float: right;
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    width: 400px;
+    border-radius: 2px;
+    text-align: center;
+}
+
+.wrapped-image2 img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.wrapped-image2 figcaption {
+    font-size: 0.9rem;
+    color: #555;
+    margin-top: 5px;
+    font-style: italic;
+}
+
+.wrapped-image3 {
+    float: right;
+    margin-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    width: 600px;
+    border-radius: 2px;
+    text-align: center;
+}
+
+.wrapped-image3 img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.wrapped-image3 figcaption {
+    font-size: 0.9rem;
+    color: #555;
+    margin-top: 5px;
+    font-style: italic;
+}
+
+.wrapped-image4 {
+    float: left;
+    margin-right: 15px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    width: 400px;
+    border-radius: 2px;
+    text-align: center;
+}
+
+.wrapped-image4 img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.wrapped-image4 figcaption {
+    font-size: 0.9rem;
+    color: #555;
+    margin-top: 5px;
+    font-style: italic;
+}
+
 
 
 /* Footer Styles */
