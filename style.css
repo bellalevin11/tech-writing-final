@@ -89,6 +89,7 @@ body {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    align-self: center;
 }
 
 .main-article {
@@ -144,7 +145,6 @@ body {
     border-radius: 5px;
     display: block;
     text-align: center;
-    transition: background 0.3s;
 }
 
 .sidebar nav ul li a:hover {
@@ -177,7 +177,7 @@ h2 {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.wrapped-image1 figcaption {
+.wrapped-image1 p {
     font-size: 0.9rem;
     color: #555;
     margin-top: 5px;
@@ -201,7 +201,7 @@ h2 {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.wrapped-image2 figcaption {
+.wrapped-image2 p {
     font-size: 0.9rem;
     color: #555;
     margin-top: 5px;
@@ -225,7 +225,7 @@ h2 {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.wrapped-image3 figcaption {
+.wrapped-image3 p {
     font-size: 0.9rem;
     color: #555;
     margin-top: 5px;
@@ -249,7 +249,7 @@ h2 {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.wrapped-image4 figcaption {
+.wrapped-image4 p {
     font-size: 0.9rem;
     color: #555;
     margin-top: 5px;
